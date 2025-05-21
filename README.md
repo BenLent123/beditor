@@ -12,5 +12,6 @@ What can it do?
 About the project:
 
 This is a very VERY basic txt editor like wordpad or editor in basic C using SDL/SDL2 and tinyfiledialogs. It does work and should not kill your pc but at the end of the day indeed USE AT YOUR OWN DANGER :( 
+
 This all is mainly just exploration on what you can do in C, what is possible or limitations etc
 
