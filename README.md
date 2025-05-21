@@ -1,4 +1,4 @@
-# Example headings
+# Beditor (best - editor ) fr
 This is : **beditor** the best super duper innovative basic txt editor!
 
 ***WRITTEN IN LINUX, not for windows!***
