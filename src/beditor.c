@@ -5,7 +5,7 @@
 #include <SDL2/SDL.h>
 #include <SDL2/SDL_ttf.h>
 #include "tinyfiledialogs.h"
-
+// done XD
 #define MAX_TEXT_LEN 128
 #define MAX_LINES 64
 #define WINDOW_WIDTH_INITIAL 640
